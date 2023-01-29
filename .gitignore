@@ -1,0 +1,18 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+#*.jar # We want the libraries
+*.zip
+*.tar.gz
+*.rar
+
+# Printed tickets
+printedTickets/*
+
+# Bhavuk editor thing
+.thisDirSession.vim
+.vscode/*
